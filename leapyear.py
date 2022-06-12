@@ -1,6 +1,3 @@
-from ast import Break
-
-
 def is_leap(year):
     leap = False
     if 1900<=year and year<=10000:
